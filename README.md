@@ -3,7 +3,7 @@
 "A new Flutter project."
 
 ## Getting Started
-## Usage
+## ScreenShot
 
 <div align = "center">
 <img src="Assets/gifs/actionSheet-simple.gif" width="350" />
