@@ -3,6 +3,12 @@
 "A new Flutter project."
 
 ## Getting Started
+## Usage
+
+<div align = "center">
+<img src="Assets/gifs/actionSheet-simple.gif" width="350" />
+<img src="Assets/gifs/alert-simple.gif" width="350" />
+</div>
 
 This project is a starting point for a Flutter application.
 
