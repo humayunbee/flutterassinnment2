@@ -6,8 +6,8 @@
 ## ScreenShot
 
 <div align = "center">
-<img src="Assets/gifs/actionSheet-simple.gif" width="350" />
-<img src="Assets/gifs/alert-simple.gif" width="350" />
+<img src="Screenshot_1694972098.png" width="350" />
+
 </div>
 
 This project is a starting point for a Flutter application.
